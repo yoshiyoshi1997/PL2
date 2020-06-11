@@ -1,0 +1,59 @@
+,date,team,score,minute,scorer
+home,"Sun, 11-Aug-19",Man Utd,4,"[18, 65, 67, 81]","['M.Rashford', 'A.Martial', 'M.Rashford', 'D.James']"
+away,"Sun, 11-Aug-19",Chelsea,0,[],[]
+home,"Sun, 18-Aug-19",Chelsea,1,[7],['M.Mount']
+away,"Sun, 18-Aug-19",Leicester,1,[67],['W.Ndidi']
+home,"Sat, 24-Aug-19",Norwich,2,"[6, 31]","['T.Cantwell', 'T.Pukki']"
+away,"Sat, 24-Aug-19",Chelsea,3,"[3, 17, 68]","['T.Abraham', 'M.Mount', 'T.Abraham']"
+home,"Sat, 31-Aug-19",Chelsea,2,"[19, 43]","['T.Abraham', 'T.Abraham']"
+away,"Sat, 31-Aug-19",Sheff Utd,2,"[46, 89]","['C.Robinson', 'K.Zouma(OG)']"
+home,"Sat, 14-Sep-19",Wolves,2,"[69, 85]","['T.Abraham(OG)', 'P.Cutrone']"
+away,"Sat, 14-Sep-19",Chelsea,5,"[31, 34, 41, 55, 90]","['F.Tomori', 'T.Abraham', 'T.Abraham', 'T.Abraham', '0M.Mount']"
+home,"Sun, 22-Sep-19",Chelsea,1,[71],['N.Kanté']
+away,"Sun, 22-Sep-19",Liverpool,2,"[14, 30]","['T.Alexander-Arnold', '0R.Firmino']"
+home,"Sat, 28-Sep-19",Chelsea,2,"[50, 76]","['0Jorginho', 'Willian']"
+away,"Sat, 28-Sep-19",Brighton,0,[],[]
+home,"Sun, 06-Oct-19",Southampton,1,[30],['0D.Ings']
+away,"Sun, 06-Oct-19",Chelsea,4,"[17, 24, 40, 89]","['T.Abraham', 'M.Mount', '0N.Kanté', 'M.Batshuayi']"
+home,"Sat, 19-Oct-19",Chelsea,1,[73],['M.Alonso']
+away,"Sat, 19-Oct-19",Newcastle,0,[],[]
+home,"Sat, 26-Oct-19",Burnley,2,"[86, 89]","['J.Rodriguez', 'D.McNeil']"
+away,"Sat, 26-Oct-19",Chelsea,4,"[21, 45, 56, 58]","['C.Pulisic', 'C.Pulisic', 'C.Pulisic', 'Willian']"
+home,"Sat, 02-Nov-19",Watford,1,[80],['0G.Deulofeu']
+away,"Sat, 02-Nov-19",Chelsea,2,"[5, 55]","['T.Abraham', 'C.Pulisic']"
+home,"Sat, 09-Nov-19",Chelsea,2,"[52, 79]","['T.Abraham', 'C.Pulisic']"
+away,"Sat, 09-Nov-19",Crystal Palace,0,[],[]
+home,"Sat, 23-Nov-19",Man City,2,"[29, 37]","['K.D.Bruyne', 'R.Mahrez']"
+away,"Sat, 23-Nov-19",Chelsea,1,[21],['N.Kanté']
+home,"Sat, 30-Nov-19",Chelsea,0,[],[]
+away,"Sat, 30-Nov-19",West Ham,1,[48],['A.Cresswell']
+home,"Wed, 04-Dec-19",Chelsea,2,"[24, 48]","['T.Abraham', 'M.Mount']"
+away,"Wed, 04-Dec-19",Aston Villa,1,[41],['Trézéguet']
+home,"Sat, 07-Dec-19",Everton,3,"[5, 49, 84]","['Richarlison', 'D.Calvert-Lewin', 'D.Calvert-Lewin']"
+away,"Sat, 07-Dec-19",Chelsea,1,[52],['M.Kovacic']
+home,"Sat, 14-Dec-19",Chelsea,0,[],[]
+away,"Sat, 14-Dec-19",Bournemouth,1,[84],['D.Gosling']
+home,"Sun, 22-Dec-19",Tottenham,0,[],[]
+away,"Sun, 22-Dec-19",Chelsea,2,"[12, 45]","['Willian', 'Willian']"
+home,"Thu, 26-Dec-19",Chelsea,0,[],[]
+away,"Thu, 26-Dec-19",Southampton,2,"[31, 73]","['M.Obafemi', 'N.Redmond']"
+home,"Sun, 29-Dec-19",Arsenal,1,[13],['P.Aubameyang']
+away,"Sun, 29-Dec-19",Chelsea,2,"[83, 87]","['Jorginho', 'T.Abraham']"
+home,"Wed, 01-Jan-20",Brighton,1,[84],['A.Jahanbakhsh']
+away,"Wed, 01-Jan-20",Chelsea,1,[10],['0C.Azpilicueta']
+home,"Sat, 11-Jan-20",Chelsea,3,"[27, 38, 49]","['Jorginho', 'T.Abraham', 'C.Hudson-Odoi']"
+away,"Sat, 11-Jan-20",Burnley,0,[],[]
+home,"Sat, 18-Jan-20",Newcastle,1,[90],['0I.Hayden']
+away,"Sat, 18-Jan-20",Chelsea,0,[],[]
+home,"Tue, 21-Jan-20",Chelsea,2,"[28, 84]","['Jorginho', 'C.Azpilicueta']"
+away,"Tue, 21-Jan-20",Arsenal,2,"[63, 87]","['G.Martinelli', 'H.Bellerín']"
+home,"Sat, 01-Feb-20",Leicester,2,"[54, 64]","['H.Barnes', 'B.Chilwell']"
+away,"Sat, 01-Feb-20",Chelsea,2,"[46, 71]","['A.Rüdiger', 'A.Rüdiger']"
+home,"Mon, 17-Feb-20",Chelsea,0,[],[]
+away,"Mon, 17-Feb-20",Man Utd,2,"[45, 66]","['A.Martial', 'H.Maguire']"
+home,"Sat, 22-Feb-20",Chelsea,2,"[15, 48]","['O.Giroud', 'M.Alonso']"
+away,"Sat, 22-Feb-20",Tottenham,1,[89],['A.Rüdiger(OG)']
+home,"Sat, 29-Feb-20",Bournemouth,2,"[54, 57]","['J.Lerma', 'J.King']"
+away,"Sat, 29-Feb-20",Chelsea,2,"[33, 85]","['M.Alonso', 'M.Alonso']"
+home,"Sun, 08-Mar-20",Chelsea,4,"[14, 21, 51, 54]","['M.Mount', 'Pedro', 'Willian', 'O.Giroud']"
+away,"Sun, 08-Mar-20",Everton,0,[],[]
